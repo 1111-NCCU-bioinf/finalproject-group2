@@ -1,6 +1,6 @@
 # Title of your paper
 ### Members
-* name, student ID1
+* Haruto Yamamoto, 111753170
 * name, student ID2
 * name, student ID3
 * ...
