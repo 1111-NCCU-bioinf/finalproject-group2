@@ -12,7 +12,13 @@ You might provide an example commend or few commends to reproduce your analysis,
 Rscript code/your_script.R --input data/training --output results/performance.tsv
 ```
 ```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
+Rscript final_code.r 
+
+#sample code###
+# To show the heatmap of Or genes
+heatmap(heat_or_scale)
+# To show the Tree of Or genes (boostrap)
+plot(or_bp)
 ```
 
 ## Folder organization and its related information
