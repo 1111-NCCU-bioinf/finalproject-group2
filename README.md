@@ -11,6 +11,9 @@ You might provide an example commend or few commends to reproduce your analysis,
 ```R
 Rscript code/your_script.R --input data/training --output results/performance.tsv
 ```
+```R
+Rscript code/your_script.R --input data/training --output results/performance.tsv
+```
 
 ## Folder organization and its related information
 idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Projects.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) PLoS Comput Biol 5(7): e1000424.
