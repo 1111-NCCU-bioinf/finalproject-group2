@@ -1,9 +1,9 @@
 # Expression Divergence of Chemosensory Genes between Drosophila sechellia and Its Sibling Species and Its Implications for Host Shift
 
-### Members
-*陳羽暉, 111753156
-*邱鉅樺, 111753166
-*山本遙人, 111753170
+### Members  
+*陳羽暉, 111753156  
+*邱鉅樺, 111753166  
+*山本遙人, 111753170  
 
 
 ### Demo 
@@ -36,7 +36,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * Any improvement or change by your package?
 
 ## References
-* Packages you use
+* Packages you use  
 pvclust  
 https://cran.r-project.org/web/packages/pvclust/index.html  
 limma  
