@@ -18,7 +18,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 ### docs
 * Your presentation, 1112_bioinformatics_FP_studentID.ppt/pptx/pdf (i.e.,1112_bioinformatics_FP_556688.ppt), by **01.12**
 * Any related document for the project
-  * i.e., software user guide
+  * software user guide (pvclust, limma)
 
 ### data
 * Source
