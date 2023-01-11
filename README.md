@@ -29,7 +29,8 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * Which packages do you use? 
   * original packages in the paper (pvclust)
   * additional packages you found (limma) 
-* Analysis steps
+* Analysis steps  
+  * Use final_code.r to reproduce figures from the paper and analize FPKM
 
 ### results
 * Which part of the paper do you reproduce?
