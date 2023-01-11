@@ -38,7 +38,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 ### results
 * Which part of the paper do you reproduce?
   * Heat maps of expression profiles of Or genes, Ir genes, and Obp genes. 
-  * Cluster dendrogram with AU/BP values of Or genes, Ir genes, and Obp genes.(Boostrapped Tree)
+  * Cluster dendrogram with P values of Or genes, Ir genes, and Obp genes.(Boostrapped Tree)
 * Any improvement or change by your package?
   * using limma packeage instead of deseq2 (Change)
 
