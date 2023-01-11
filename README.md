@@ -20,7 +20,7 @@ heatmap(heat_or_scale)
 # To show the Tree of Or genes (boostrap)
 plot(or_bp)
 # To show the the deg table 
-plot(deg_or)
+deg_or
 ```
 
 ## Folder organization and its related information
