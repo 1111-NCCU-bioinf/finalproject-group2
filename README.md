@@ -22,8 +22,11 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### data
 * Source
+  * FPKM tables of D.sec, D.sim, and D.mel  
 * Format
+  * .csv (csv format)
 * Size
+  * size of each csv file is 1~3 kb
 
 ### code
 * Which packages do you use? 
