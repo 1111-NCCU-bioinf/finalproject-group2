@@ -1,9 +1,9 @@
 # Title of your paper
 ### Members
-* Haruto Yamamoto, 111753170
-* name, student ID2
-* name, student ID3
-* ...
+*陳羽暉, 111753156
+*邱鉅樺, 111753166
+*山本遙人, 111753170
+
 
 ### Demo 
 You might provide an example commend or few commends to reproduce your analysis, i.e., the following R script
