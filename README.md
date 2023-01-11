@@ -19,6 +19,8 @@ Rscript final_code.r
 heatmap(heat_or_scale)
 # To show the Tree of Or genes (boostrap)
 plot(or_bp)
+# To show the DEG table of Or genes
+deg_or
 ```
 
 ## Folder organization and its related information
