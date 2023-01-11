@@ -37,4 +37,8 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ## References
 * Packages you use
+pvclust
+https://cran.r-project.org/web/packages/pvclust/index.html
+limma
+https://bioconductor.org/packages/release/bioc/html/limma.html
 * Related publications
