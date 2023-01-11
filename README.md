@@ -27,8 +27,8 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### code
 * Which packages do you use? 
-  * original packages in the paper
-  * additional packages you found
+  * original packages in the paper (pvclust)
+  * additional packages you found (limma) 
 * Analysis steps
 
 ### results
