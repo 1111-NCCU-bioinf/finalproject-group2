@@ -44,10 +44,10 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ## References
 * Packages you use  
-pvclust  
-https://cran.r-project.org/web/packages/pvclust/index.html  
-limma  
-https://bioconductor.org/packages/release/bioc/html/limma.html  
+  * pvclust  
+    https://cran.r-project.org/web/packages/pvclust/index.html  
+  * limma  
+    https://bioconductor.org/packages/release/bioc/html/limma.html  
 * Related publications
   * Shiao MS, et al. 2013. Transcriptional profiling of adult Drosophila antennae by high-throughput sequencing. Zool Stud. 52:42–51.  
     https://zoologicalstudies.springeropen.com/articles/10.1186/1810-522X-52-42    
