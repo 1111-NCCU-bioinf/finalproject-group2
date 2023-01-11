@@ -23,6 +23,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 ### data
 * Source
   * FPKM tables of D.sec, D.sim, and D.mel  
+  downloded from Supplementary data on https://academic.oup.com/gbe/article/7/10/2843/2465881#supplementary-data  
 * Format
   * .csv (csv format)
 * Size
