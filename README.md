@@ -8,9 +8,7 @@
 
 ### Demo 
 You might provide an example commend or few commends to reproduce your analysis, i.e., the following R script
-```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
-```
+
 ```R
 Rscript final_code.r 
 
